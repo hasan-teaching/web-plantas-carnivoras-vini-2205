@@ -58,8 +58,8 @@ td, th {
     flex: 1;
     margin-right: 2px; 
     border: 4px solid limegreen;
-    width: 600px;
-    height: 350px;
+    width: 400px;
+    height: 250px;
 }
 
 .succao{
@@ -69,7 +69,7 @@ td, th {
     flex: 1;
     margin-right: 2px; 
     border: 4px solid limegreen;
-    width: 450px;
+    width: 400px;
     height: 350px;
 }
 
